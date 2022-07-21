@@ -1,9 +1,19 @@
 // Assignment Code
 var generateBtn = document.querySelector('#generate');
 
+
+
 function generatePassword() {
   var password = 'password';
   // TODO: add code to generate the password here
+  var passwordLength = window.prompt ('How long would you like your password (8-128 charachters)?');
+  if (passwordLength < 8) {
+    return;
+  }
+  if (passwordLength > 128) {
+    return;
+  };
+  
 
   return password;
 }
