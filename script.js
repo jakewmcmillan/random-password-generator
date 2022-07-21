@@ -5,7 +5,7 @@ function generatePassword() {
   // TODO: add code to generate the password here
   var password = "";
   var choices = [];
-  var passLength = window.prompt ('How long would you like your password (8-128 charachters)?');
+  var passLength = window.prompt ('How long would you like your password (8-128 characters)?');
   var useUpper = window.confirm('Would you like to use uppercase letters in your password?');
   var useLower = window.confirm('Would you like to use lowercase letters in your password?');
   var useNumber = window.confirm('Would you like to use numbers in your password?');
