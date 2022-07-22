@@ -4,3 +4,6 @@ This is a random password generator that I created using Javascript and some sta
 
 Overall, this project honed my Javascript ability and let me put into practice the skills that we learned in class.  It caused me to fill in the cracks of what I did not pick up and rolled what we learned about HTML, CSS and Javascript and roll them into one succinct, functioning, application.  Below you will find a link to my project along with a screenshot of how it looks when deployed. 
 
+[Link to deployed page: https://jakewmcmillan.github.io/random-password-generator/](https://jakewmcmillan.github.io/random-password-generator/)
+
+[Screenshot:](Assets/screenshot.png)
